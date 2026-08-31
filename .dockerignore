@@ -1,0 +1,8 @@
+.env
+.venv
+abhinay
+__pycache__
+*.pyc
+.git
+
+
